@@ -14,6 +14,9 @@ public class ArrayManipulation {
 
     }
     public static int[] removeFirst(int[] arr){
+
+    }
+    public static int[] removeLast(int[] arr){
         
     }
     public static void main(String[] args) {
